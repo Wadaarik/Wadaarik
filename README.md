@@ -43,6 +43,7 @@ From France, living in Paris 🥖, FrontEnd developper and student at Paris La D
 
  <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 
+
 ## GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wadaarik&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadaarik&layout=compact&theme=buefy&hide_border=true" /> |
