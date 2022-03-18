@@ -29,19 +29,12 @@ From France, living in Paris 🥖, FrontEnd developper and student at Paris La D
 
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
 
-<img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
-
-<br />
-<br />
+<img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" /><br><br>
 
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain.svg" />
-
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain.svg" />
-
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 
 <br />
