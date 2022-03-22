@@ -6,7 +6,7 @@ From France, living in Paris 🥖, FrontEnd developper and student at Paris La D
 - 🔭 I’m currently working on Flutter app and Vue3
 - 🌱 I’m currently growing up with Vue3
 - ⏲️ Recently I discovered [Vite](https://vitejs.dev/ "Vite") and [Jest](https://jestjs.io/ "Jest")
-- 📫 How to reach me : Instagram or email
+- 📫 How to reach me : <a href="https://www.instagram.com/purplepill_pro/">Instagram</a> or <a href="mailto:purplepills@outlook.fr">email</a>
 
 ## Languages and Tools:
 
