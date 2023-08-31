@@ -3,9 +3,9 @@
 
 From France, living in Paris 🥖, FrontEnd developper and student at Paris La Defense, I do content on Development. I really enjoy learning languages and frameworks like NodeJS and VueJS.
 
-- 🔭 I’m currently working on Flutter app and Vue3
-- 🌱 I’m currently growing up with Vue3 & TypeScript
-- ⏲️ Recently I discovered [Vite](https://vitejs.dev/ "Vite") and [Jest](https://jestjs.io/ "Jest")
+- 🔭 I’m currently working on Flutter & Fastlane
+- 🌱 I’m currently growing up with Dart & Godot
+- ⏲️ Recently I discovered [Godot](https://godotengine.org/ "Godot")
 - 📫 How to reach me : [Instagram](https://www.instagram.com/purplepill_pro/ "@purplepill_pro") or <a href="mailto:purplepills@outlook.fr">email</a>
 
 ## Languages and Tools:
@@ -36,6 +36,8 @@ From France, living in Paris 🥖, FrontEnd developper and student at Paris La D
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+
 
 <br />
 <br />
