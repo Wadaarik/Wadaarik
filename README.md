@@ -23,7 +23,7 @@ From France, living in Paris 🥖, FrontEnd developper and student at Paris La D
 
 <img align="left"  width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 
-<img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
 
