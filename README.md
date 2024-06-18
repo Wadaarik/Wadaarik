@@ -1,7 +1,7 @@
 # PurplePill
 ### Hi there 👋
 
-From France, living in Paris 🥖, FrontEnd developper and student at Paris La Defense, I do content on Development. I really enjoy learning languages and frameworks like NodeJS and VueJS.
+From France, living in Paris 🥖, FrontEnd developper and student at Paris La Defense, I do content on Development. I really enjoy learning languages and frameworks like Flutter and Nodejs.
 
 - 🔭 I’m currently working on Flutter & Fastlane
 - 🌱 I’m currently growing up with Dart & Godot
