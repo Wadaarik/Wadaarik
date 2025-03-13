@@ -4,8 +4,8 @@
 From France, living in Paris 🥖, Mobile developper at Valwin, I do content on Development. I really enjoy learning languages and frameworks like Flutter and Nodejs.
 
 - 🔭 I’m currently working on Flutter & Fastlane
-- 🌱 I’m currently growing up with Dart & Godot
-- ⏲️ Recently I discovered [Godot](https://godotengine.org/ "Godot")
+- 🌱 I’m currently growing up with Kotlin & Java
+- ⏲️ Recently I have improved my skills on [Fastlane](https://fastlane.tools/ "Fastlane")
 - 📫 How to reach me : [Instagram](https://www.instagram.com/purplepill_pro/ "@purplepill_pro") or <a href="mailto:purplepills@outlook.fr">email</a>
 
 ## Languages and Tools:
